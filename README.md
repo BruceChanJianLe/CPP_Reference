@@ -62,138 +62,138 @@
 │   │   ├── [utest.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/utest.cpp)  
 │   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/working.cpp)  
 │   └── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/README.md)  
-├── C++ Essential Training  
-│   ├── Chap02  
-│   │   ├── cpp11.cpp  
-│   │   ├── for.cpp  
-│   │   ├── hello-cout.cpp  
-│   │   ├── hello.cpp  
-│   │   ├── loop.cpp  
-│   │   ├── switch.cpp  
-│   │   ├── while.cpp  
-│   │   └── working.cpp  
-│   ├── Chap03  
-│   │   ├── auto-type2.cpp  
-│   │   ├── auto-type.cpp  
-│   │   ├── bitfields.cpp  
-│   │   ├── cards.cpp  
-│   │   ├── char-escape.cpp  
-│   │   ├── c-strings.cpp  
-│   │   ├── float-types.cpp  
-│   │   ├── intetgers.cpp  
-│   │   ├── nullptr.cpp  
-│   │   ├── qualifiers.cpp  
-│   │   ├── stdint.cpp  
-│   │   ├── struct.cpp  
-│   │   ├── typedef.cpp  
-│   │   ├── union.cpp  
-│   │   ├── void-type.cpp  
-│   │   └── working.cpp  
-│   ├── Chap04  
-│   │   ├── bprint.cpp  
-│   │   ├── new-delete.cpp  
-│   │   ├── pointer-incr.cpp  
-│   │   ├── typeid.cpp  
-│   │   └── working.cpp  
-│   ├── Chap05  
-│   │   ├── func.cpp  
-│   │   ├── func.h  
-│   │   ├── func-operator.cpp  
-│   │   ├── func-overload.cpp  
-│   │   ├── goto.cpp  
-│   │   ├── jump.cpp  
-│   │   ├── recursive-factorial.cpp  
-│   │   ├── variadic.cpp  
-│   │   └── working.cpp  
-│   ├── Chap06  
-│   │   ├── accessors.cpp  
-│   │   ├── class.cpp  
-│   │   ├── constructors.cpp  
-│   │   ├── rational.cpp  
-│   │   └── working.cpp  
-│   ├── Chap07  
-│   │   ├── decltype.cpp  
-│   │   ├── template-class.cpp  
-│   │   ├── template-function.cpp  
-│   │   └── working.cpp  
-│   ├── Chap08  
-│   │   ├── errno.cpp  
-│   │   ├── file-io.cpp  
-│   │   ├── file-io-struct.cpp  
-│   │   ├── printf.cpp  
-│   │   ├── string.cpp  
-│   │   ├── time.cpp  
-│   │   └── working.cpp  
-│   ├── Chap09  
-│   │   ├── exception.cpp  
-│   │   ├── iostream-file.cpp  
-│   │   ├── iostream-formatting.cpp  
-│   │   ├── string.cpp  
-│   │   ├── vector.cpp  
-│   │   └── working.cpp  
-│   ├── Operator Precedence.pdf  
-│   └── README.md  
-├── C++ Templates and the STL  
-│   ├── Chap01  
-│   │   ├── auto.cpp  
-│   │   ├── decltype.cpp  
-│   │   ├── stack.cpp  
-│   │   ├── stack.h  
-│   │   ├── template-class.cpp  
-│   │   ├── template-function.cpp  
-│   │   ├── template-variable.cpp  
-│   │   └── working.cpp  
-│   ├── Chap02  
-│   │   ├── array.cpp  
-│   │   ├── deque.cpp  
-│   │   ├── list.cpp  
-│   │   ├── map.cpp  
-│   │   ├── pair.cpp  
-│   │   ├── queue.cpp  
-│   │   ├── set.cpp  
-│   │   ├── stack.cpp  
-│   │   ├── string.cpp  
-│   │   ├── tuple.cpp  
-│   │   ├── vector.cpp  
-│   │   └── working.cpp  
-│   ├── Chap03  
-│   │   ├── bidi-iterator.cpp  
-│   │   ├── forward-iterator.cpp  
-│   │   ├── input-iterator.cpp  
-│   │   ├── iterator.cpp  
-│   │   ├── output-iterator.cpp  
-│   │   ├── ra-iterator.cpp  
-│   │   └── working.cpp  
-│   ├── Chap04  
-│   │   ├── binary-transformation.cpp  
-│   │   ├── lambda.cpp  
-│   │   ├── numword.cpp  
-│   │   ├── numword.h  
-│   │   ├── numword-transform.cpp  
-│   │   ├── rational.cpp  
-│   │   ├── rational.h  
-│   │   ├── string-transform.cpp  
-│   │   ├── title-case.h  
-│   │   ├── transform.cpp  
-│   │   └── working.cpp  
-│   ├── Chap05  
-│   │   ├── arithmetic.cpp  
-│   │   ├── functor.cpp  
-│   │   ├── logical.cpp  
-│   │   ├── relational.cpp  
-│   │   └── working.cpp  
-│   ├── Chap06  
-│   │   ├── algorithm.cpp  
-│   │   ├── binsearch.cpp  
-│   │   ├── conditional.cpp  
-│   │   ├── merge.cpp  
-│   │   ├── modify.cpp  
-│   │   ├── partition.cpp  
-│   │   ├── randomize.cpp  
-│   │   ├── replace.cpp  
-│   │   ├── search.cpp  
-│   │   ├── sort.cpp  
-│   │   ├── stablesort.cpp  
-│   │   └── working.cpp  
-│   └── README.md  
-└── README.md  
+├── [C++ Essential Training](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training)  
+│   ├── [Chap02](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap02)  
+│   │   ├── [cpp11.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/cpp11.cpp]  
+│   │   ├── [for.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/for.cpp]  
+│   │   ├── [hello-cout.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/hello-cout.cpp)  
+│   │   ├── [hello.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/hello.cpp)  
+│   │   ├── [loop.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/loop.cpp)  
+│   │   ├── [switch.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/switch.cpp)  
+│   │   ├── [while.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/while.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap02/working.cpp)  
+│   ├── [Chap03](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap03)  
+│   │   ├── [auto-type2.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/auto-type2.cpp)  
+│   │   ├── [auto-type.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/auto-type.cpp)  
+│   │   ├── [bitfields.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/bitfields.cpp)  
+│   │   ├── [cards.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/cards.cpp)  
+│   │   ├── [char-escape.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/char-escape.cpp)  
+│   │   ├── [c-strings.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/c-strings.cpp)  
+│   │   ├── [float-types.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/float-types.cpp)  
+│   │   ├── [intetgers.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/intetgers.cpp)  
+│   │   ├── [nullptr.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/nullptr.cpp)  
+│   │   ├── [qualifiers.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/qualifiers.cpp)  
+│   │   ├── [stdint.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/stdint.cpp)  
+│   │   ├── [struct.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/struct.cpp)  
+│   │   ├── [typedef.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/typedef.cpp)  
+│   │   ├── [union.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/union.cpp)  
+│   │   ├── [void-type.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/void-type.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap03/working.cpp)  
+│   ├── [Chap04](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap04)  
+│   │   ├── [bprint.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap04/bprint.cpp)  
+│   │   ├── [new-delete.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap04/new-delete.cpp)  
+│   │   ├── [pointer-incr.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap04/pointer-incr.cpp)  
+│   │   ├── [typeid.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap04/typeid.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap04/working.cpp)  
+│   ├── [Chap05](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap05)  
+│   │   ├── [func.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/func.cpp)  
+│   │   ├── [func.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/func.h)  
+│   │   ├── [func-operator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/func-operator.cpp)  
+│   │   ├── [func-overload.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/func-overload.cpp)  
+│   │   ├── [goto.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/goto.cpp)  
+│   │   ├── [jump.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/jump.cpp)  
+│   │   ├── [recursive-factorial.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/recursive-factorial.cpp)  
+│   │   ├── [variadic.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/variadic.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap05/working.cpp)  
+│   ├── [Chap06](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap06)  
+│   │   ├── [accessors.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap06/accessors.cpp)  
+│   │   ├── [class.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap06/class.cpp)  
+│   │   ├── [constructors.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap06/constructors.cpp)  
+│   │   ├── [rational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap06/rational.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap06/working.cpp)  
+│   ├── [Chap07](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap07)  
+│   │   ├── [decltype.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap07/decltype.cpp)  
+│   │   ├── [template-class.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap07/template-class.cpp)  
+│   │   ├── [template-function.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap07/template-function.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap07/working.cpp)  
+│   ├── [Chap08](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap08)  
+│   │   ├── [errno.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/errno.cpp)  
+│   │   ├── [file-io.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/file-io.cpp)  
+│   │   ├── [file-io-struct.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/file-io-struct.cpp)  
+│   │   ├── [printf.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/printf.cpp)  
+│   │   ├── [string.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/string.cpp)  
+│   │   ├── [time.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/time.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap08/working.cpp)  
+│   ├── [Chap09](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Essential%20Training/Chap09)  
+│   │   ├── [exception.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/exception.cpp)  
+│   │   ├── [iostream-file.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/iostream-file/cpp)  
+│   │   ├── [iostream-formatting.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/iostream-formatting.cpp)  
+│   │   ├── [string.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/string.cpp)  
+│   │   ├── [vector.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/vector.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Chap09/working.cpp)  
+│   ├── [Operator Precedence.pdf](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/Operator%20Precedence.pdf)  
+│   └── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Essential%20Training/README.md)  
+├── [C++ Templates and the STL](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL)  
+│   ├── [Chap01](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01)  
+│   │   ├── [auto.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/auto.cpp)  
+│   │   ├── [decltype.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/decltype.cpp)  
+│   │   ├── [stack.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/stack.cpp)  
+│   │   ├── [stack.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/stack.h)  
+│   │   ├── [template-class.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-class.cpp)  
+│   │   ├── [template-function.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-function.cpp)  
+│   │   ├── [template-variable.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-variable.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/working.cpp)  
+│   ├── [Chap02](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02)  
+│   │   ├── [array.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/array.cpp)  
+│   │   ├── [deque.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/deque.cpp)  
+│   │   ├── [list.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/list.cpp)  
+│   │   ├── [map.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/map.cpp)  
+│   │   ├── [pair.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/pair.cpp)  
+│   │   ├── [queue.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/queue.cpp)  
+│   │   ├── [set.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/set.cpp)  
+│   │   ├── [stack.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/stack.cpp)  
+│   │   ├── [string.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/string.cpp)  
+│   │   ├── [tuple.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/tuple.cpp)  
+│   │   ├── [vector.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/vector.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/working.cpp)  
+│   ├── [Chap03](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03)  
+│   │   ├── [bidi-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/bidi-iterator.cpp)  
+│   │   ├── [forward-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/forward-iterator.cpp)  
+│   │   ├── [input-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/input-iterator.cpp)  
+│   │   ├── [iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/iterator.cpp)  
+│   │   ├── [output-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/output-iterator.cpp)  
+│   │   ├── [ra-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/ra-iterator.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/working.cpp)  
+│   ├── [Chap04](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04)  
+│   │   ├── [binary-transformation.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/binary-transformation.cpp)  
+│   │   ├── [lambda.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/lambda.cpp)  
+│   │   ├── [numword.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword.cpp)  
+│   │   ├── [numword.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword.h)  
+│   │   ├── [numword-transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword-transform.cpp)  
+│   │   ├── [rational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/rational.cpp)  
+│   │   ├── [rational.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/rational.h)  
+│   │   ├── [string-transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/string-transform.cpp)  
+│   │   ├── [title-case.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/title-case.h)  
+│   │   ├── [transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/transform.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/working.cpp)  
+│   ├── [Chap05](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05)  
+│   │   ├── [arithmetic.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/arithmetic.cpp)  
+│   │   ├── [functor.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/functor.cpp)  
+│   │   ├── [logical.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/logical.cpp)  
+│   │   ├── [relational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/relational.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/working.cpp)  
+│   ├── [Chap06](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06)  
+│   │   ├── [algorithm.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/algorithm.cpp)  
+│   │   ├── [binsearch.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/binsearch.cpp)  
+│   │   ├── [conditional.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/conditional.cpp)  
+│   │   ├── [merge.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/merge.cpp)  
+│   │   ├── [modify.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/modify.cpp)  
+│   │   ├── [partition.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/partition.cpp)  
+│   │   ├── [randomize.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/randomize.cpp)  
+│   │   ├── [replace.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/replace.cpp)  
+│   │   ├── [search.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/search.cpp)  
+│   │   ├── [sort.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/sort.cpp)  
+│   │   ├── [stablesort.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/stablesort.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/working.cpp)  
+│   └── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/README.md)  
+└── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/README.md)  
