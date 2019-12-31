@@ -1,67 +1,67 @@
 # CPP_Reference
 .  
-├── C++ Advanced Topics  
-│   ├── Chap01  
-│   │   ├── accessors.cpp  
-│   │   ├── class.cpp  
-│   │   ├── constructors.cpp  
-│   │   ├── data.cpp  
-│   │   ├── exceptions.cpp  
-│   │   ├── functor.cpp  
-│   │   ├── implicit-explicit.cpp  
-│   │   ├── incr-decr.cpp  
-│   │   ├── member-function.cpp  
-│   │   ├── namespace.cpp  
-│   │   ├── new-delete.cpp  
-│   │   ├── numword.cpp  
-│   │   ├── numword.h  
-│   │   ├── numword-test.cpp  
-│   │   ├── rational2.cpp  
-│   │   ├── rational.cpp  
-│   │   ├── simple-inheritance.cpp  
-│   │   └── working.cpp  
-│   ├── Chap02  
-│   │   ├── simple-inheritance.cpp  
-│   │   └── working.cpp  
-│   ├── Chap03  
-│   │   ├── custom-deleter.cpp  
-│   │   ├── shared.cpp  
-│   │   ├── strc.cpp  
-│   │   ├── strc.h  
-│   │   ├── unique.cpp  
-│   │   ├── weak.cpp  
-│   │   └── working.cpp  
-│   ├── Chap04  
-│   │   ├── rational-01.cpp  
-│   │   ├── rational-02.cpp  
-│   │   ├── rational-03.cpp  
-│   │   ├── vector-test.cpp  
-│   │   └── working.cpp  
-│   ├── Chap05  
-│   │   ├── lambda-02.cpp  
-│   │   ├── lambda.cpp  
-│   │   ├── poly-lambda.cpp  
-│   │   └── working.cpp  
-│   ├── Chap06  
-│   │   ├── conditional.cpp  
-│   │   ├── conditional.h  
-│   │   ├── includeA.h  
-│   │   ├── includeB.h  
-│   │   ├── side-effects.cpp  
-│   │   └── working.cpp  
-│   ├── Chap07  
-│   │   ├── BWUTest.cpp  
-│   │   ├── BWUTest.h  
-│   │   └── utest.cpp  
-│   ├── Chap08  
-│   │   ├── BWString.cpp  
-│   │   ├── BWString.h  
-│   │   ├── BWUTest.cpp  
-│   │   ├── BWUTest.h  
-│   │   ├── primes.cpp  
-│   │   ├── utest.cpp  
-│   │   └── working.cpp  
-│   └── README.md  
+├── [C++ Advanced Topics](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics)  
+│   ├── [Chap01](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap01)  
+│   │   ├── [accessors.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/accessors.cpp)  
+│   │   ├── [class.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/class.cpp)  
+│   │   ├── [constructors.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/constructors.cpp)  
+│   │   ├── [data.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/data.cpp)  
+│   │   ├── [exceptions.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/exceptions.cpp)  
+│   │   ├── [functor.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/functor.cpp)  
+│   │   ├── [implicit-explicit.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/implicit-explicit.cpp)  
+│   │   ├── [incr-decr.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/incr-decr.cpp)  
+│   │   ├── [member-function.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01member-function/.cpp)  
+│   │   ├── [namespace.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/namespace.cpp)  
+│   │   ├── [new-delete.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/new-delete.cpp)  
+│   │   ├── [numword.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/numword.cpp)  
+│   │   ├── [numword.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/numword.h)  
+│   │   ├── [numword-test.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/numword-test.cpp)  
+│   │   ├── [rational2.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/rational2.cpp)  
+│   │   ├── [rational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/rational.cpp)  
+│   │   ├── [simple-inheritance.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/simple-inheritance.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap01/working.cpp)  
+│   ├── [Chap02](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap02)  
+│   │   ├── [simple-inheritance.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap02/simple-inheritance.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap02/working.cpp)  
+│   ├── [Chap03](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap03)  
+│   │   ├── [custom-deleter.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/custom-deleter.cpp)  
+│   │   ├── [shared.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/shared.cpp)  
+│   │   ├── [strc.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/strc.cpp)  
+│   │   ├── [strc.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/strc.h)  
+│   │   ├── [unique.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/unique.cpp)  
+│   │   ├── [weak.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/weak.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap03/working.cpp)  
+│   ├── [Chap04](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap04)  
+│   │   ├── [rational-01.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap04/rational-01.cpp)  
+│   │   ├── [rational-02.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap04/rational-02.cpp)  
+│   │   ├── [rational-03.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap04/rational-03.cpp)  
+│   │   ├── [vector-test.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap04/vector-test.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap04/working.cpp)  
+│   ├── [Chap05](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap05)  
+│   │   ├── [lambda-02.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap05/lambda-02.cpp)  
+│   │   ├── [lambda.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap05/lambda.cpp)  
+│   │   ├── [poly-lambda.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap05/poly-lambda.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap05/working.cpp)  
+│   ├── [Chap06](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap06)  
+│   │   ├── [conditional.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/conditional.cpp)  
+│   │   ├── [conditional.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/conditional.h)  
+│   │   ├── [includeA.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/includeA.h)  
+│   │   ├── [includeB.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/includeB.h)  
+│   │   ├── [side-effects.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/side-effects.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap06/working.cpp)  
+│   ├── [Chap07](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap07)  
+│   │   ├── [BWUTest.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap07/BWUTest.cpp)  
+│   │   ├── [BWUTest.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap07/BWUTest.h)  
+│   │   └── [utest.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap07/utest.cpp)  
+│   ├── [Chap08](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Advanced%20Topics/Chap08)  
+│   │   ├── [BWString.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/BWString.cpp)  
+│   │   ├── [BWString.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/BWString.h)  
+│   │   ├── [BWUTest.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/BWUTest.cpp)  
+│   │   ├── [BWUTest.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/BWUTest.h)  
+│   │   ├── [primes.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/primes.cpp)  
+│   │   ├── [utest.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/utest.cpp)  
+│   │   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/Chap08/working.cpp)  
+│   └── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Advanced%20Topics/README.md)  
 ├── C++ Essential Training  
 │   ├── Chap02  
 │   │   ├── cpp11.cpp  
