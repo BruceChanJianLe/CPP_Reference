@@ -1,70 +1,65 @@
- C++ Templates and the STL
- ��  README.md
- ��  
- ����Chap01
- ��      auto.cpp
- ��      decltype.cpp
- ��      stack.cpp
- ��      stack.h
- ��      template-class.cpp
- ��      template-function.cpp
- ��      template-variable.cpp
- ��      working.cpp
- ��      
- ����Chap02
- ��      array.cpp
- ��      deque.cpp
- ��      list.cpp
- ��      map.cpp
- ��      pair.cpp
- ��      queue.cpp
- ��      set.cpp
- ��      stack.cpp
- ��      string.cpp
- ��      tuple.cpp
- ��      vector.cpp
- ��      working.cpp
- ��      
- ����Chap03
- ��      bidi-iterator.cpp
- ��      forward-iterator.cpp
- ��      input-iterator.cpp
- ��      iterator.cpp
- ��      output-iterator.cpp
- ��      ra-iterator.cpp
- ��      working.cpp
- ��      
- ����Chap04
- ��      binary-transformation.cpp
- ��      lambda.cpp
- ��      numword-transform.cpp
- ��      numword.cpp
- ��      numword.h
- ��      rational.cpp
- ��      rational.h
- ��      string-transform.cpp
- ��      title-case.h
- ��      transform.cpp
- ��      working.cpp
- ��      
- ����Chap05
- ��      arithmetic.cpp
- ��      functor.cpp
- ��      logical.cpp
- ��      relational.cpp
- ��      working.cpp
- ��      
- ����Chap06
-         algorithm.cpp
-         binsearch.cpp
-         conditional.cpp
-         merge.cpp
-         modify.cpp
-         partition.cpp
-         randomize.cpp
-         replace.cpp
-         search.cpp
-         sort.cpp
-         stablesort.cpp
-         working.cpp
-         
+# Content
+
+[C++ Templates and the STL](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL)  
+├── [Chap01](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01)  
+│   ├── [auto.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/auto.cpp)  
+│   ├── [decltype.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/decltype.cpp)  
+│   ├── [stack.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/stack.cpp)  
+│   ├── [stack.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/stack.h)  
+│   ├── [template-class.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-class.cpp)  
+│   ├── [template-function.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-function.cpp)  
+│   ├── [template-variable.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/template-variable.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap01/working.cpp)  
+├── [Chap02](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02)  
+│   ├── [array.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/array.cpp)  
+│   ├── [deque.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/deque.cpp)  
+│   ├── [list.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/list.cpp)  
+│   ├── [map.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/map.cpp)  
+│   ├── [pair.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/pair.cpp)  
+│   ├── [queue.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/queue.cpp)  
+│   ├── [set.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/set.cpp)  
+│   ├── [stack.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/stack.cpp)  
+│   ├── [string.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/string.cpp)  
+│   ├── [tuple.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/tuple.cpp)  
+│   ├── [vector.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/vector.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap02/working.cpp)  
+├── [Chap03](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03)  
+│   ├── [bidi-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/bidi-iterator.cpp)  
+│   ├── [forward-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/forward-iterator.cpp)  
+│   ├── [input-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/input-iterator.cpp)  
+│   ├── [iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/iterator.cpp)  
+│   ├── [output-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/output-iterator.cpp)  
+│   ├── [ra-iterator.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/ra-iterator.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap03/working.cpp)  
+├── [Chap04](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04)  
+│   ├── [binary-transformation.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/binary-transformation.cpp)  
+│   ├── [lambda.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/lambda.cpp)  
+│   ├── [numword.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword.cpp)  
+│   ├── [numword.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword.h)  
+│   ├── [numword-transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/numword-transform.cpp)  
+│   ├── [rational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/rational.cpp)  
+│   ├── [rational.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/rational.h)  
+│   ├── [string-transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/string-transform.cpp)  
+│   ├── [title-case.h](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/title-case.h)  
+│   ├── [transform.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/transform.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap04/working.cpp)  
+├── [Chap05](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05)  
+│   ├── [arithmetic.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/arithmetic.cpp)  
+│   ├── [functor.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/functor.cpp)  
+│   ├── [logical.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/logical.cpp)  
+│   ├── [relational.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/relational.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap05/working.cpp)  
+├── [Chap06](https://github.com/BruceChanJianLe/CPP_Reference/tree/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06)  
+│   ├── [algorithm.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/algorithm.cpp)  
+│   ├── [binsearch.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/binsearch.cpp)  
+│   ├── [conditional.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/conditional.cpp)  
+│   ├── [merge.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/merge.cpp)  
+│   ├── [modify.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/modify.cpp)  
+│   ├── [partition.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/partition.cpp)  
+│   ├── [randomize.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/randomize.cpp)  
+│   ├── [replace.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/replace.cpp)  
+│   ├── [search.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/search.cpp)  
+│   ├── [sort.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/sort.cpp)  
+│   ├── [stablesort.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/stablesort.cpp)  
+│   └── [working.cpp](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/Chap06/working.cpp)  
+└── [README.md](https://github.com/BruceChanJianLe/CPP_Reference/blob/master/C%2B%2B%20Templates%20and%20the%20STL/README.md)  
